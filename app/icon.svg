@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Ardhi &amp; Co.">
+  <rect width="64" height="64" rx="14" fill="#215AED" />
+  <path
+    d="M14.5 49 32 15l17.5 34"
+    fill="none"
+    stroke="#F4F1E9"
+    stroke-width="6.2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <path d="M23.6 36.4h16.8" fill="none" stroke="#F4F1E9" stroke-width="6.2" stroke-linecap="round" />
+</svg>
